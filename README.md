@@ -1,5 +1,7 @@
 # Selecting a New Tennis Racquet
 
+![federer racquet](https://user-images.githubusercontent.com/100224330/176103361-d486528e-14cd-4673-afb1-2bbbed0ff635.jpg)
+
 ## Motivation
 
 I love playing tennis and I am long overdue for a new racquet. I haven't bought a new racquet in 9 years and would like to search for a new one that fits my game a little better. I find my current racquet to be slightly too heavy and not spin-friendly enough, so I will be looking for something with easier access to power and topspin, ideally within the strung weight range of 11-11.5 ounces. Instead of just clicking through page by page on the internet for each racquet, I thought I'd combine my passions for data and tennis together for a fun and informative exercise that can help narrow in on which racquets to consider. With the help of a Tableau dashboard, I will try to identify a handful of racquet to demo and then select one to purchase.
